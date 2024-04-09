@@ -1,4 +1,4 @@
-Oiiii! Eu sou a Ayhamyza 👩🏾‍💻
+## <p align="center">Oiiii! Eu sou a Ayhamyza 👩🏾‍💻<p/>
 
 <div>
   <img alt="top langs" align="left" width="47%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhamyza&show_icons=true&theme=radical&layout=compact"/> 
