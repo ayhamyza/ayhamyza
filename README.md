@@ -4,7 +4,7 @@ Oiiii! Eu sou a Ayhamyza 👩🏾‍💻
   <img alt="top langs" align="left" width="47%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhamyza&show_icons=true&theme=radical&layout=compact"/> 
   <img alt="my stats" align="left" width="47%" height="200em" src="https://github-readme-stats.vercel.app/api?username=ayhamyza&show_icons=true&theme=radical"/>
 </div>
-<img align="center" alt=""height="30" width="40" src="./background.jpg"/>
+<img align="center" alt=""height="3" width="1000" src="./background.jpg"/>
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
