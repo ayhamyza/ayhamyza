@@ -1,5 +1,5 @@
 ## <p align="center">Oiiii! Eu sou a Ayhamyza.<p/>
- <p align="center">Mas pode me chamar de Myza 🤭<p/>
+<p align="center"> 🌱 Atualmente estou estudando React e TypeScript.</p>
 <div align="center"><br/>
   <a href = ""><img src="./meuGif.gif"></a>
 </div><br/>
@@ -26,5 +26,3 @@
    <a href = "mailto:myzaellen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ayhamyza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![snake gif](https://github.com/ayhmyza/ayhamyza/blob/output/github-contribution-grid-snake.svg)
