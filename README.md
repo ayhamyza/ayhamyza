@@ -1,8 +1,8 @@
 ## <p align="center">Oiiii! Eu sou a Ayhamyza.<p/>
 
-<p align="center">🏠 Moro em Curitiba(PR);</p>
-<p align="center">👩🏽‍💻 Sou desenvolvedora Full Stack;</p>
-<p align="center">🌱 Atualmente estudando e praticando TypeScript;</p>
+<p align="center">🏠 Moro em Curitiba(PR)</p>
+<p align="center">👩🏽‍💻 Sou desenvolvedora Full Stack</p>
+<p align="center">🌱 Atualmente estudando e praticando TypeScript</p>
 
 <div align="center"><br/>
   <a href = ""><img src="./meuGif.gif"></a>
