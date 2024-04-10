@@ -1,4 +1,5 @@
-## <p align="center">Oiiii! Eu sou a Ayhamyza 👩🏾‍💻<p/>
+## <p align="center">Oiiii! Eu sou a Ayhamyza.<p/>
+ <p align="center">Mas pode me chamar de Myza 🤭<p/>
 <div align="center"><br/>
   <a href = ""><img src="./meuGif.gif"></a>
 </div><br/>
