@@ -3,10 +3,7 @@
 <p align="center">🏠 Moro em Curitiba(PR)</p>
 <p align="center">👩🏽‍💻 Sou desenvolvedora Full Stack</p>
 <p align="center">🌱 Atualmente estudando e praticando TypeScript</p>
-
-<div align="center"><br/>
-  <a href = ""><img src="./meuGif.gif"></a>
-</div><br/>
+<br/>
 <div align="center">
   <a href = "mailto:myzaellen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ayhamyza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
